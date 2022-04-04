@@ -22,6 +22,6 @@ Currently there are 6 Functionalities present in this application.
 <!-- <img src="Demo.gif" alt="this slowpoke moves"  width="780" height = "480"> -->
 
 ### Main Libs Used :
-- OpenCV lib(for image processing and drawing)
-- Mediapipe lib(for Hand Tracking)
+- OpenCV lib (for image processing and drawing)
+- Mediapipe lib (for Hand Tracking)
 - Numpy
